@@ -1,2 +1,3 @@
 # aula_Recriando-o-famoso-jogo-do-dinossauro-sem-internet--DIO
-Aula Recriando o famoso jogo do dinossauro sem internet do bootcamp GFT START_UNI 2021
+Aula do professor Celso Henrique par ao bootcamp GFT START UNI 2021
+Recriando o jogo do dinossauro do Chrome sem internet. Utilizando HTML, JavaScript e Css. 
